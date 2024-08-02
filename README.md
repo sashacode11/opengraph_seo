@@ -11,4 +11,4 @@ OpenGraph-SEO is a simple tool for optimizing your website's social media sharin
 
 Link of the web page: https://sashacode11.github.io/opengraph_seo/
 
-![opengraph_seo](https://github.com/sashacode11/opengraph_seo/assets/104759085/6eae0fe5-b0ee-4b49-bae1-eb9da4f06443)
+![image](https://github.com/user-attachments/assets/d0c3dc3c-62fc-4ac9-82fb-b18ec9fca6ba)
